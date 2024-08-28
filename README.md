@@ -18,5 +18,5 @@ Tato aplikace v .NET 8.0 slouží ke zpracování a validaci EDI zpráv ve form�
 
 
 ### 2. Použití aplikace
-- aplikujte migrace: pžíkazem 'dotnet ef database update' (InitialCreate je součástí repozitáře)
-- spusťě aplikaci: příkazem 'dotnet run'
+- aplikujte migrace: příkazem 'dotnet ef database update' (InitialCreate je součástí repozitáře)
+- spusťte aplikaci: příkazem 'dotnet run'
