@@ -1,0 +1,14 @@
+﻿<Order xmlns="test">
+  <OrderId>123</OrderId>
+  <OrderDate>2024-08-26T14:30:00</OrderDate>
+  <Item>
+    <ItemId>1</ItemId>
+    <ProductName>Produkt A</ProductName>
+    <Quantity>10</Quantity>
+  </Item>
+  <Item>
+    <ItemId>2</ItemId>
+    <ProductName>Product B</ProductName>
+    <Quantity>20</Quantity>
+  </Item>
+</Order>
